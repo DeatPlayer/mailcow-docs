@@ -1,3 +1,5 @@
+> :warning: **This version of mailcow is outdated and will not be developed further!**:<br>Please use https://github.com/mailcow/mailcow-dockerized 
+
 ![mailcow](https://www.debinux.de/256.png)
 
 - [mailcow](#mailcow)
